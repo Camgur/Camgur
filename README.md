@@ -1,4 +1,6 @@
-ChemAI Lab, Room 267, ABB\
+####Cameron Gurwell\
+\
+ChemAI Lab, Room 266, ABB\
 Department of Chemistry and Chemical Biology\
 McMaster University, 1280 Main Street West\
 Hamilton, ON L8S 4M1 Canada\
