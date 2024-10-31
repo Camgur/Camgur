@@ -1,5 +1,11 @@
+ChemAI Lab, Room 267, ABB\
+Department of Chemistry and Chemical Biology\
+McMaster University, 1280 Main Street West\
+Hamilton, ON L8S 4M1 Canada\
+
+
 ## Hobbies
-- Baking - Especially Bread\
+- Baking Bread\
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src='https://github.com/Camgur/Camgur/assets/156104897/25f27718-8d14-4069-b60e-11582b1ca01e' width='200'>
 - Bicycles\
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Current WIP:\
