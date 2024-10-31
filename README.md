@@ -8,10 +8,10 @@ Hamilton, ON L8S 4M1 Canada
 
 ## Hobbies
 - Baking Bread\
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src='https://github.com/Camgur/Camgur/assets/156104897/25f27718-8d14-4069-b60e-11582b1ca01e' width='200'>
+  <img src='https://github.com/Camgur/Camgur/assets/156104897/25f27718-8d14-4069-b60e-11582b1ca01e' width='200'>
 - Bicycles\
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Current WIP:\
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src='https://github.com/Camgur/Camgur/assets/156104897/b69083e3-19a2-47b0-91bf-d700d49d0e13' width='400'>
+  <img src='https://github.com/Camgur/Camgur/assets/156104897/b69083e3-19a2-47b0-91bf-d700d49d0e13' width='400'>
 
 ## Enjoy This Cat
 
