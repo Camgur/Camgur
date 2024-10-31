@@ -1,5 +1,5 @@
-#### Cameron Gurwell\
-\
+#### Cameron Gurwell
+
 ChemAI Lab, Room 266, ABB\
 Department of Chemistry and Chemical Biology\
 McMaster University, 1280 Main Street West\
