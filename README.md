@@ -6,6 +6,9 @@ McMaster University, 1280 Main Street West\
 Hamilton, ON L8S 4M1 Canada
 
 
+
+
+
 ## Hobbies
 - Baking Bread\
   <img src='https://github.com/Camgur/Camgur/assets/156104897/25f27718-8d14-4069-b60e-11582b1ca01e' width='200'>
