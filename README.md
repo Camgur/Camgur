@@ -1,11 +1,11 @@
 #### Cameron Gurwell
 
-ChemAI Lab, Room 269B, ABB\
+ChemAI Lab\
 Department of Chemistry and Chemical Biology\
 McMaster University, 1280 Main Street West\
 Hamilton, ON L8S 4M1 Canada
 
-Goward Group, Room 466-2, ABB\
+Goward Group\
 Department of Chemistry and Chemical Biology\
 McMaster University, 1280 Main Street West\
 Hamilton, ON L8S 4M1 Canada
